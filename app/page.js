@@ -12,7 +12,7 @@ export default function Home() {
         <div>
           <div className={classes.hero}>
             <h1>Sloppy food for a sloppy lil&apos; guy</h1>
-            <p>Taste and share food from your own backyard.</p>
+            <p>Not Henry? Leave this site immediately or else!</p>
           </div>
           <div className={classes.cta}>
             <Link href="/community">Join the Community</Link>
